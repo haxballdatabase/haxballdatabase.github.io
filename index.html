@@ -1,236 +1,107 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>HaxBall Database | Competitive HaxBall History Archive</title>
-  <meta name="description" content="HaxBall Database is an independent archive preserving competitive HaxBall history, including players, teams, Champions League editions, records, replays and the Top 25 HaxBall Players of All Time project.">
-  <meta name="robots" content="index,follow">
-  <meta name="theme-color" content="#0b1320">
-
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="HaxBall Database | Competitive HaxBall History Archive">
-  <meta property="og:description" content="An independent archive preserving the players, teams, tournaments, records and moments that shaped competitive HaxBall.">
-  <meta property="og:url" content="https://haxballdatabase.github.io/">
-
-  <style>
-    :root{
-      --bg:#08111d;
-      --panel:#0d1928;
-      --panel2:#101f31;
-      --text:#e8eef5;
-      --muted:#9fb0c4;
-      --gold:#d4af37;
-      --line:#22344a;
-      --blue:#59a8ff;
-    }
-    *{box-sizing:border-box}
-    html{scroll-behavior:smooth}
-    body{
-      margin:0;
-      font-family:Arial,Helvetica,sans-serif;
-      background:
-        radial-gradient(circle at 20% 0%, rgba(45,91,145,.18), transparent 35%),
-        linear-gradient(180deg,#07101b 0%,#0a1421 100%);
-      color:var(--text);
-      line-height:1.65;
-    }
-    a{color:inherit}
-    .wrap{width:min(1120px,92%);margin:0 auto}
-    header{
-      padding:84px 0 56px;
-      border-bottom:1px solid var(--line);
-    }
-    .eyebrow{
-      color:var(--gold);
-      font-size:13px;
-      font-weight:700;
-      letter-spacing:.16em;
-      text-transform:uppercase;
-      margin-bottom:12px;
-    }
-    h1{
-      margin:0;
-      font-size:clamp(40px,7vw,78px);
-      line-height:1.02;
-      letter-spacing:-.045em;
-    }
-    .lead{
-      max-width:760px;
-      margin:22px 0 0;
-      color:var(--muted);
-      font-size:18px;
-    }
-    .actions{
-      display:flex;
-      flex-wrap:wrap;
-      gap:12px;
-      margin-top:30px;
-    }
-    .btn{
-      display:inline-block;
-      padding:12px 18px;
-      border-radius:9px;
-      text-decoration:none;
-      font-weight:700;
-      border:1px solid var(--line);
-      background:var(--panel);
-    }
-    .btn.primary{
-      background:var(--gold);
-      border-color:var(--gold);
-      color:#111;
-    }
-    main{padding:52px 0 76px}
-    .grid{
-      display:grid;
-      grid-template-columns:repeat(3,1fr);
-      gap:18px;
-    }
-    .card{
-      background:linear-gradient(180deg,var(--panel2),var(--panel));
-      border:1px solid var(--line);
-      border-radius:14px;
-      padding:24px;
-    }
-    .card h2,.card h3{margin-top:0}
-    .card p{color:var(--muted);margin-bottom:0}
-    .feature{
-      grid-column:span 2;
-      border-color:#5a4d20;
-      background:
-        linear-gradient(180deg,rgba(212,175,55,.08),rgba(13,25,40,.92));
-    }
-    .rank{
-      font-size:52px;
-      font-weight:800;
-      color:var(--gold);
-      line-height:1;
-      margin-bottom:10px;
-    }
-    .section-title{
-      margin:54px 0 18px;
-      font-size:28px;
-    }
-    .links{
-      display:grid;
-      grid-template-columns:repeat(2,1fr);
-      gap:14px;
-    }
-    .linkbox{
-      display:block;
-      text-decoration:none;
-      background:var(--panel);
-      border:1px solid var(--line);
-      border-radius:12px;
-      padding:18px 20px;
-    }
-    .linkbox strong{display:block;margin-bottom:4px}
-    .linkbox span{color:var(--muted);font-size:14px}
-    footer{
-      border-top:1px solid var(--line);
-      padding:28px 0 42px;
-      color:var(--muted);
-      font-size:14px;
-    }
-    @media(max-width:800px){
-      header{padding-top:58px}
-      .grid{grid-template-columns:1fr}
-      .feature{grid-column:auto}
-      .links{grid-template-columns:1fr}
-    }
-  </style>
-
-  <script type="application/ld+json">
-  {
-    "@context":"https://schema.org",
-    "@type":"WebSite",
-    "name":"HaxBall Database",
-    "description":"An independent archive preserving competitive HaxBall history.",
-    "url":"https://haxballdatabase.github.io/",
-    "sameAs":[
-      "https://haxball-database.fandom.com/",
-      "https://besthaxballplayers.netlify.app/"
-    ]
-  }
-  </script>
-</head>
-<body>
-  <header>
-    <div class="wrap">
-      <div class="eyebrow">Competitive HaxBall History</div>
-      <h1>HaxBall Database</h1>
-      <p class="lead">
-        A permanent record of the players, teams, tournaments and moments that shaped competitive HaxBall.
-        The project brings historical information, records, match replays and player profiles together in one archive.
-      </p>
-      <div class="actions">
-        <a class="btn primary" href="https://haxball-database.fandom.com/" rel="noopener">Visit HaxBall Database</a>
-        <a class="btn" href="https://besthaxballplayers.netlify.app/" rel="noopener">View the Top 25</a>
-      </div>
-    </div>
-  </header>
-
-  <main class="wrap">
-    <div class="grid">
-      <section class="card feature">
-        <div class="rank">#1</div>
-        <h2>Misaj was selected as the No.1 player in HaxBall history</h2>
-        <p>
-          In the HaxBall Database Top 25 project, a panel of elite players from multiple generations ranked the greatest
-          players in competitive HaxBall history. Misaj finished first in the final ranking.
-        </p>
-      </section>
-
-      <section class="card">
-        <h3>Top 25 HaxBall Players</h3>
-        <p>
-          The complete ranking, voting methodology, panel information, player write-ups and comments are published on
-          the dedicated Top 25 site.
-        </p>
-      </section>
-
-      <section class="card">
-        <h3>Player Database</h3>
-        <p>
-          Profiles preserve player careers, tournament histories, roles, notable performances and documented achievements.
-        </p>
-      </section>
-
-      <section class="card">
-        <h3>Champions League Archive</h3>
-        <p>
-          The archive records Champions League editions, champions, teams, line-ups, historical notes and surviving match replays.
-        </p>
-      </section>
-
-      <section class="card">
-        <h3>Records & Legacy</h3>
-        <p>
-          The project is designed as a historical reference point for competitive HaxBall, especially information that is difficult
-          to find years after tournaments have ended.
-        </p>
-      </section>
-    </div>
-
-    <h2 class="section-title">Explore the project</h2>
-    <div class="links">
-      <a class="linkbox" href="https://haxball-database.fandom.com/" rel="noopener">
-        <strong>HaxBall Database</strong>
-        <span>Main archive: players, teams, tournaments, records and history.</span>
-      </a>
-
-      <a class="linkbox" href="https://besthaxballplayers.netlify.app/" rel="noopener">
-        <strong>Best HaxBall Players</strong>
-        <span>Dedicated Top 25 ranking and voting project.</span>
-      </a>
-    </div>
-  </main>
-
-  <footer>
-    <div class="wrap">
-      HaxBall Database is an independent community history project and is not the official HaxBall website.
-    </div>
-  </footer>
-</body>
-</html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HaxBall Database</title><meta name="description" content="A permanent public archive of competitive HaxBall history, including players, teams, Champions League seasons, records and the Top 25 all-time project."><meta name="robots" content="index,follow,max-image-preview:large"><link rel="canonical" href="https://haxballdatabase.github.io/"><meta property="og:type" content="website"><meta property="og:site_name" content="HaxBall Database"><meta property="og:title" content="HaxBall Database"><meta property="og:description" content="A permanent public archive of competitive HaxBall history, including players, teams, Champions League seasons, records and the Top 25 all-time project."><meta property="og:url" content="https://haxballdatabase.github.io/"><meta property="og:image" content="https://haxballdatabase.github.io/assets/site/haxballdb.png"><link rel="stylesheet" href="/assets/site.css"><script src="/assets/site.js" defer></script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebPage", "name": "HaxBall Database", "description": "A permanent public archive of competitive HaxBall history, including players, teams, Champions League seasons, records and the Top 25 all-time project.", "url": "https://haxballdatabase.github.io/", "isPartOf": {"@type": "WebSite", "name": "HaxBall Database", "url": "https://haxballdatabase.github.io/"}, "dateModified": "2026-09-12"}</script></head><body><header class="site-header"><nav class="nav"><a class="brand" href="/"><img src="/assets/site/haxballdb.png" alt="HaxBall Database logo"><span>HaxBall Database</span></a><div class="navlinks"><a href="/" class="active">Home</a><a href="/players/" class="">Players</a><a href="/champions-league/" class="">Champions League</a><a href="/champions-league/teams/" class="">Teams</a><a href="/top-25/" class="">Top 25</a></div></nav></header><main class="page-shell"><div class="breadcrumbs">HaxBall Database</div><div class="page-titlebar"><div><div class="page-kicker">Primary Public Archive</div><h1>HaxBall Database</h1></div></div><article class="content"><section class="hero"><div class="hero-badge">Competitive HaxBall History</div><h1>HaxBall Database</h1><p>A permanent public archive of the players, teams, tournaments and moments that shaped competitive HaxBall. This GitHub edition is the primary open version of the database, built for durable web access, search indexing and machine-readable discovery.</p></section><div style="width:1px; height:1px; overflow:hidden; opacity:0; position:absolute; left:-9999px; top:-9999px;">
+<figure>
+<img alt="haxballdb2" decoding="async" loading="lazy" src="/assets/site/haxballdb.png" title="haxballdb2.png" width="1"/>
+<figcaption>haxballdb2.png</figcaption>
+</figure>
+</div>
+<table class="archive-table">
+<tbody>
+<tr class="odd">
+<td style="width:33%; padding:17px 10px; background:linear-gradient(135deg,#1a1200,#3a2800); border:2px solid #d4af37; box-shadow:inset 0 0 15px rgba(212,175,55,0.25);"><p><a href="/top-25/"><span style="color:#d4af37; text-decoration:none; text-shadow:0 0 8px rgba(212,175,55,0.5);">👑 Top 25 Haxball Players of All Time</span></a></p></td>
+<td style="width:33%; padding:17px 10px; background:linear-gradient(135deg,#002115,#004d32,#002115); border:2px solid #10b981; box-shadow:inset 0 0 18px rgba(16,185,129,0.35);"><p><a href="/players/"><span style="color:#e6fffa; text-decoration:none; text-shadow:0 0 8px rgba(16,185,129,0.7);">👤 Player Database</span></a></p></td>
+<td style="width:34%; padding:17px 10px; background:linear-gradient(135deg,#020b2d,#0b1f5c,#020b2d); border:2px solid #3154a4; box-shadow:inset 0 0 18px rgba(49,84,164,0.45);"><p><a href="/champions-league/"><span style="color:#eaf2ff; text-decoration:none; text-shadow:0 0 8px rgba(120,170,255,0.8);">🏆 Haxball Champions League</span></a></p></td>
+</tr>
+</tbody>
+</table>
+<div style="background:linear-gradient(135deg,#0b0b0b,#151515); border:1px solid #333; border-radius:10px; padding:30px 35px; margin:20px 0 30px; color:#eee; box-shadow:0 4px 20px rgba(0,0,0,0.35);">
+<div style="text-align:center; margin-bottom:30px;">
+<p><span style="font-size:34px; font-weight:bold; color:#f1f1f1; text-shadow:0 0 10px rgba(255,255,255,0.15);"> HaxBall Database </span></p>
+<div style="font-size:15px; font-weight:700; color:#d4af37; margin-top:8px; letter-spacing:1.5px; text-transform:uppercase;">
+<p>THE COMPLETE COMPETITIVE DATABASE &amp; ARCHIVE</p>
+</div>
+</div>
+<div style="font-size:17px; line-height:1.7; color:#ddd; text-align:center; max-width:900px; margin:0 auto 35px;">
+<p>Welcome to <b style="color:#fff;">HaxBall Database</b>, a comprehensive competitive database and archive dedicated to documenting the players, teams, tournaments, statistics, records and stories that shaped European HaxBall.<br/>
+<br/>
+From detailed player careers and championship lineups to historic finals, rankings, records and major rivalries, this platform is built to serve as a permanent reference point for HaxBall's competitive scene.</p>
+</div>
+<div style="background:linear-gradient(135deg,#1c1600,#2c2200,#1c1600); border:1px solid #d4af37; border-radius:8px; padding:22px 25px; text-align:center; margin-bottom:30px; box-shadow:0 0 15px rgba(212,175,55,0.12);">
+<div style="font-size:22px; font-weight:bold; color:#d4af37; margin-bottom:10px;">
+<p>⭐ Built &amp; Verified by Elite Players</p>
+</div>
+<div style="font-size:15px; line-height:1.65; color:#e0e0e0; max-width:850px; margin:auto;">
+<p>HaxBall Database is curated using direct input, historical archives and first-hand knowledge from <b style="color:#fff;">elite players across multiple generations of competitive HaxBall</b>. Their experience helps preserve player achievements, match details, team histories and important competitive moments with greater accuracy and context.</p>
+</div>
+</div>
+<div style="display:flex; gap:15px; flex-wrap:wrap; margin-bottom:30px;">
+<div style="flex:1; min-width:250px; background:linear-gradient(135deg,#111,#1b1b1b); border:1px solid #444; border-top:3px solid #d4af37; border-radius:8px; padding:22px;">
+<div style="font-size:23px; font-weight:bold; color:#d4af37; margin-bottom:12px;">
+<p>⚖️ Objective Database &amp; Records</p>
+</div>
+<div style="font-size:15px; line-height:1.65; color:#ccc;">
+<p>HaxBall Database operates as an objective, <b style="color:#fff;">evidence-based database and historical archive.</b><br/>
+<br/>
+Player careers, championship lineups, tournament placements, match results and statistical records are documented using available replays, competition records and historical sources. The goal is to preserve an accurate and unbiased record of competitive HaxBall.<br/>
+<br/>
+<span style="color:#eee; font-weight:bold;">Preserving records, statistics and history without distortion.</span></p>
+</div>
+</div>
+<div style="flex:1; min-width:250px; background:linear-gradient(135deg,#111,#1b1b1b); border:1px solid #444; border-top:3px solid #3154a4; border-radius:8px; padding:22px;">
+<div style="font-size:23px; font-weight:bold; color:#8eb5ff; margin-bottom:12px;">
+<p>📊 Stats, Rosters &amp; Stories</p>
+</div>
+<div style="font-size:15px; line-height:1.65; color:#ccc;">
+<p>Statistics preserve the record, while context explains how those records were created.<br/>
+<br/>
+HaxBall Database connects information such as <b style="color:#fff;">HaxBall Champions League titles, goals, assists, clean sheets, final appearances and championship squads</b> with the rivalries, tactical changes and major matches behind them.<br/>
+<br/>
+Whether documenting a player's career or reconstructing the history of a championship team, <b style="color:#fff;">each record is preserved with its competitive context.</b></p>
+</div>
+</div>
+</div>
+<div style="background:linear-gradient(135deg,#101010,#181818); border:1px solid #333; border-radius:8px; padding:25px; text-align:center; margin-bottom:30px;">
+<div style="font-size:25px; font-weight:bold; color:#d4af37; margin-bottom:12px;">
+<p>🏛️ The HaxBall Competitive Archive</p>
+</div>
+<div style="font-size:15px; line-height:1.7; color:#ccc; max-width:850px; margin:auto;">
+<p>Across more than a decade of competitive play, thousands of players have competed across different teams, leagues and tournaments, leaving behind trophies, statistics and memorable performances.<br/>
+<br/>
+By organizing these records into a searchable database, HaxBall Database aims to keep player achievements, team histories, championship squads, tournament results and major competitive moments permanently accessible to the community.</p>
+</div>
+</div>
+<div style="border-left:4px solid #d4af37; background:rgba(212,175,55,0.06); padding:22px 25px; margin:25px auto; max-width:850px;">
+<div style="font-size:14px; color:#aaa; text-transform:uppercase; letter-spacing:2px; margin-bottom:8px;">
+<p>Competitive Database &amp; Archive</p>
+</div>
+<div style="font-size:22px; font-weight:bold; color:#f5f5f5; line-height:1.4;">
+<p>A permanent database and historical record of the players, teams, tournaments, records and moments that shaped competitive HaxBall.</p>
+</div>
+</div>
+<div style="background:linear-gradient(135deg,#0c1625,#111d2f); border:1px solid #34445e; border-radius:10px; padding:30px 35px; margin:35px 0 25px; color:#ddd; box-shadow:0 4px 20px rgba(0,0,0,0.3);">
+<div style="text-align:center; margin-bottom:25px;">
+<div style="font-size:30px; font-weight:bold; color:#f1f5f9; text-shadow:0 0 10px rgba(120,170,255,0.2);">
+<p>ℹ️ About HaxBall</p>
+</div>
+<div style="font-size:14px; color:#8eb5ff; margin-top:7px; letter-spacing:1px;">
+<p>THE GAME BEHIND THE RECORDS</p>
+</div>
+</div>
+<div style="max-width:900px; margin:auto; font-size:16px; line-height:1.75; color:#d5dce7;">
+<p>First released in <b style="color:#fff;">December 2010</b>, HaxBall was originally implemented using the Flash Player and used RTMFP to create peer-to-peer connections in a way similar to WebRTC.<br/>
+<br/>
+Following the discontinuation of Flash Player, the game successfully transitioned to HTML5, continuing its legacy as one of the most popular browser-based competitive multiplayer games.</p>
+</div>
+<div style="margin:28px auto 0; max-width:900px; border-top:1px solid #34445e; padding-top:22px;">
+<div style="font-size:22px; font-weight:bold; color:#8eb5ff; margin-bottom:12px;">
+<p>👤 Author</p>
+</div>
+<div style="font-size:16px; line-height:1.7; color:#d5dce7;">
+<p>HaxBall is created and maintained by <b style="color:#fff;">Mario Carbajal (aka basro)</b>.</p>
+</div>
+</div>
+</div>
+<div style="text-align:center; color:#777; font-size:12px; margin-top:25px;">
+<p>HaxBall Database is an independent community database and archive and is not affiliated with the official HaxBall developers.</p>
+</div>
+</div>
+</article></main><footer class="footer">HaxBall Database · Independent archive of competitive HaxBall history · Primary public archive at <a href="https://haxballdatabase.github.io/">haxballdatabase.github.io</a></footer></body></html>

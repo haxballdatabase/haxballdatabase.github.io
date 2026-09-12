@@ -1,0 +1,135 @@
+# HaxBall Database
+
+> Primary public archive: https://haxballdatabase.github.io/
+
+HaxBall Database is an independent archive preserving competitive HaxBall history. The GitHub Pages edition is the primary open public version of the database.
+
+## Core sections
+- Player Database: https://haxballdatabase.github.io/players/
+- HaxBall Champions League: https://haxballdatabase.github.io/champions-league/
+- Champions League Players: https://haxballdatabase.github.io/champions-league/players/
+- Champions League Teams: https://haxballdatabase.github.io/champions-league/teams/
+- Top 25 HaxBall Players of All Time: https://haxballdatabase.github.io/top-25/
+- Machine-readable site index: https://haxballdatabase.github.io/data/site-index.json
+- Player JSON index: https://haxballdatabase.github.io/data/players.json
+- Team JSON index: https://haxballdatabase.github.io/data/teams.json
+
+## Important archive note
+The Top 25 project is presented as an elite-player voting project. The supplied ranking page identifies Misaj as the No.1 player in HaxBall history according to that voting project.
+
+## Player profiles
+- Abduction: https://haxballdatabase.github.io/players/abduction/
+- Adekyz: https://haxballdatabase.github.io/players/adekyz/
+- Adriano: https://haxballdatabase.github.io/players/adriano/
+- aguero10: https://haxballdatabase.github.io/players/aguero10/
+- Al1s: https://haxballdatabase.github.io/players/al1s/
+- Altidore: https://haxballdatabase.github.io/players/altidore/
+- aMp: https://haxballdatabase.github.io/players/amp/
+- ANDREA: https://haxballdatabase.github.io/players/andrea/
+- Bot: https://haxballdatabase.github.io/players/bot/
+- Bullas: https://haxballdatabase.github.io/players/bullas/
+- Buub: https://haxballdatabase.github.io/players/buub/
+- Caccapupù: https://haxballdatabase.github.io/players/caccapupu/
+- Catrice: https://haxballdatabase.github.io/players/catrice/
+- Ced: https://haxballdatabase.github.io/players/ced/
+- Chro: https://haxballdatabase.github.io/players/chro/
+- Clinical Striker: https://haxballdatabase.github.io/players/clinical-striker/
+- CRonaldo: https://haxballdatabase.github.io/players/cronaldo/
+- Dark: https://haxballdatabase.github.io/players/dark/
+- Deliric: https://haxballdatabase.github.io/players/deliric/
+- Dexter: https://haxballdatabase.github.io/players/dexter/
+- Doctore: https://haxballdatabase.github.io/players/doctore/
+- DrG: https://haxballdatabase.github.io/players/drg/
+- ES Pierre: https://haxballdatabase.github.io/players/es-pierre/
+- Fredklop: https://haxballdatabase.github.io/players/fredklop/
+- Fritz: https://haxballdatabase.github.io/players/fritz/
+- Gilbert: https://haxballdatabase.github.io/players/gilbert/
+- GQKU: https://haxballdatabase.github.io/players/gqku/
+- Guti.Haz: https://haxballdatabase.github.io/players/guti-haz/
+- Hakut: https://haxballdatabase.github.io/players/hakut/
+- Hulk: https://haxballdatabase.github.io/players/hulk/
+- iNoob: https://haxballdatabase.github.io/players/inoob/
+- Isco: https://haxballdatabase.github.io/players/isco/
+- jasko: https://haxballdatabase.github.io/players/jasko/
+- Jéal: https://haxballdatabase.github.io/players/jeal/
+- Knap: https://haxballdatabase.github.io/players/knap/
+- kojo: https://haxballdatabase.github.io/players/kojo/
+- Kranjcar: https://haxballdatabase.github.io/players/kranjcar/
+- Kyrai: https://haxballdatabase.github.io/players/kyrai/
+- LaggerMet: https://haxballdatabase.github.io/players/laggermet/
+- Leu: https://haxballdatabase.github.io/players/leu/
+- Liebe: https://haxballdatabase.github.io/players/liebe/
+- Linas: https://haxballdatabase.github.io/players/linas/
+- Liéds: https://haxballdatabase.github.io/players/lieds/
+- Makenzie: https://haxballdatabase.github.io/players/makenzie/
+- Marble: https://haxballdatabase.github.io/players/marble/
+- Meyer: https://haxballdatabase.github.io/players/meyer/
+- Micran: https://haxballdatabase.github.io/players/micran/
+- Misaj: https://haxballdatabase.github.io/players/misaj/
+- Modric: https://haxballdatabase.github.io/players/modric/
+- Müllewa: https://haxballdatabase.github.io/players/mullewa/
+- Necro: https://haxballdatabase.github.io/players/necro/
+- Nesquik: https://haxballdatabase.github.io/players/nesquik/
+- Norbigo: https://haxballdatabase.github.io/players/norbigo/
+- nova: https://haxballdatabase.github.io/players/nova/
+- NukroyS: https://haxballdatabase.github.io/players/nukroys/
+- Overkill: https://haxballdatabase.github.io/players/overkill/
+- P4ER: https://haxballdatabase.github.io/players/p4er/
+- PiperSalvia: https://haxballdatabase.github.io/players/pipersalvia/
+- Pringles: https://haxballdatabase.github.io/players/pringles/
+- R9: https://haxballdatabase.github.io/players/r9/
+- Razmo: https://haxballdatabase.github.io/players/razmo/
+- Rene: https://haxballdatabase.github.io/players/rene/
+- Reus: https://haxballdatabase.github.io/players/reus/
+- ROCKY BALBOA: https://haxballdatabase.github.io/players/rocky-balboa/
+- Rq*: https://haxballdatabase.github.io/players/rq/
+- SAKY: https://haxballdatabase.github.io/players/saky/
+- Schurz: https://haxballdatabase.github.io/players/schurz/
+- SeRGeN: https://haxballdatabase.github.io/players/sergen/
+- shaxlele: https://haxballdatabase.github.io/players/shaxlele/
+- Splat: https://haxballdatabase.github.io/players/splat/
+- Splycee: https://haxballdatabase.github.io/players/splycee/
+- Stingox: https://haxballdatabase.github.io/players/stingox/
+- Taziek: https://haxballdatabase.github.io/players/taziek/
+- Ter: https://haxballdatabase.github.io/players/ter/
+- TinerMania: https://haxballdatabase.github.io/players/tinermania/
+- Tino: https://haxballdatabase.github.io/players/tino/
+- tonnnek: https://haxballdatabase.github.io/players/tonnnek/
+- Tortogol: https://haxballdatabase.github.io/players/tortogol/
+- Turya: https://haxballdatabase.github.io/players/turya/
+- Vak: https://haxballdatabase.github.io/players/vak/
+- Vanessa: https://haxballdatabase.github.io/players/vanessa/
+- vegeta: https://haxballdatabase.github.io/players/vegeta/
+- Vichoexe: https://haxballdatabase.github.io/players/vichoexe/
+- Whiplash: https://haxballdatabase.github.io/players/whiplash/
+- Wiagoal: https://haxballdatabase.github.io/players/wiagoal/
+- wroz: https://haxballdatabase.github.io/players/wroz/
+- xSha: https://haxballdatabase.github.io/players/xsha/
+- YaaDon: https://haxballdatabase.github.io/players/yaadon/
+- Yannex: https://haxballdatabase.github.io/players/yannex/
+
+## Team profiles
+- Angels of Death: https://haxballdatabase.github.io/teams/angels-of-death/
+- Angry Bulls: https://haxballdatabase.github.io/teams/angry-bulls/
+- Antartic Lions: https://haxballdatabase.github.io/teams/antartic-lions/
+- Deathwish: https://haxballdatabase.github.io/teams/deathwish/
+- Flaviu 1997: https://haxballdatabase.github.io/teams/flaviu-1997/
+- Group of Specialist: https://haxballdatabase.github.io/teams/group-of-specialist/
+- Hellhounds: https://haxballdatabase.github.io/teams/hellhounds/
+- Klub Emeryta: https://haxballdatabase.github.io/teams/klub-emeryta/
+- Nerdlucks: https://haxballdatabase.github.io/teams/nerdlucks/
+- Omertà: https://haxballdatabase.github.io/teams/omerta/
+- Pafküf: https://haxballdatabase.github.io/teams/pafkuf/
+- Pas De Nom: https://haxballdatabase.github.io/teams/pas-de-nom/
+- Seeders: https://haxballdatabase.github.io/teams/seeders/
+- Silas Beavers: https://haxballdatabase.github.io/teams/silas-beavers/
+- Skins: https://haxballdatabase.github.io/teams/skins/
+- Slappers: https://haxballdatabase.github.io/teams/slappers/
+- Smokin' Aces: https://haxballdatabase.github.io/teams/smokin-aces/
+- Stiff Wind: https://haxballdatabase.github.io/teams/stiff-wind/
+- The Elders: https://haxballdatabase.github.io/teams/the-elders/
+- Wicked Guys: https://haxballdatabase.github.io/teams/wicked-guys/
+- Yes AllStars: https://haxballdatabase.github.io/teams/yes-allstars/
+- Zebras: https://haxballdatabase.github.io/teams/zebras/
+
+This llms.txt is a discovery aid. It does not guarantee indexing or use by any search engine or AI system.

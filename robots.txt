@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haxballdatabase.github.io/sitemap.xml
