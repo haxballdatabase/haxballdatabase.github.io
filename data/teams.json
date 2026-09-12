@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Angels of Death",
+    "slug": "angels-of-death",
+    "url": "https://haxballdatabase.github.io/teams/angels-of-death/",
+    "image": "https://haxballdatabase.github.io/assets/teams/angels-of-death.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Angels_of_Death"
+  },
+  {
+    "name": "Angry Bulls",
+    "slug": "angry-bulls",
+    "url": "https://haxballdatabase.github.io/teams/angry-bulls/",
+    "image": "https://haxballdatabase.github.io/assets/teams/angry-bulls.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Angry_Bulls"
+  },
+  {
+    "name": "Antartic Lions",
+    "slug": "antartic-lions",
+    "url": "https://haxballdatabase.github.io/teams/antartic-lions/",
+    "image": "https://haxballdatabase.github.io/assets/teams/antartic-lions.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Antartic_Lions"
+  },
+  {
+    "name": "Deathwish",
+    "slug": "deathwish",
+    "url": "https://haxballdatabase.github.io/teams/deathwish/",
+    "image": "https://haxballdatabase.github.io/assets/teams/deathwish.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Deathwish"
+  },
+  {
+    "name": "Flaviu 1997",
+    "slug": "flaviu-1997",
+    "url": "https://haxballdatabase.github.io/teams/flaviu-1997/",
+    "image": "https://haxballdatabase.github.io/assets/teams/flaviu-1997.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Flaviu_1997"
+  },
+  {
+    "name": "Group of Specialist",
+    "slug": "group-of-specialist",
+    "url": "https://haxballdatabase.github.io/teams/group-of-specialist/",
+    "image": "https://haxballdatabase.github.io/assets/teams/group-of-specialist.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Group_of_Specialist"
+  },
+  {
+    "name": "Hellhounds",
+    "slug": "hellhounds",
+    "url": "https://haxballdatabase.github.io/teams/hellhounds/",
+    "image": "https://haxballdatabase.github.io/assets/teams/hellhounds.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Hellhounds"
+  },
+  {
+    "name": "Klub Emeryta",
+    "slug": "klub-emeryta",
+    "url": "https://haxballdatabase.github.io/teams/klub-emeryta/",
+    "image": "https://haxballdatabase.github.io/assets/teams/klub-emeryta.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Klub_Emeryta"
+  },
+  {
+    "name": "Nerdlucks",
+    "slug": "nerdlucks",
+    "url": "https://haxballdatabase.github.io/teams/nerdlucks/",
+    "image": "https://haxballdatabase.github.io/assets/teams/nerdlucks.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Nerdlucks"
+  },
+  {
+    "name": "Omertà",
+    "slug": "omerta",
+    "url": "https://haxballdatabase.github.io/teams/omerta/",
+    "image": "https://haxballdatabase.github.io/assets/teams/omerta.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Omert%C3%A0"
+  },
+  {
+    "name": "Pafküf",
+    "slug": "pafkuf",
+    "url": "https://haxballdatabase.github.io/teams/pafkuf/",
+    "image": "https://haxballdatabase.github.io/assets/teams/pafkuf.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Pafk%C3%BCf"
+  },
+  {
+    "name": "Pas De Nom",
+    "slug": "pas-de-nom",
+    "url": "https://haxballdatabase.github.io/teams/pas-de-nom/",
+    "image": "https://haxballdatabase.github.io/assets/teams/pas-de-nom.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Pas_De_Nom"
+  },
+  {
+    "name": "Seeders",
+    "slug": "seeders",
+    "url": "https://haxballdatabase.github.io/teams/seeders/",
+    "image": "https://haxballdatabase.github.io/assets/teams/seeders.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Seeders"
+  },
+  {
+    "name": "Silas Beavers",
+    "slug": "silas-beavers",
+    "url": "https://haxballdatabase.github.io/teams/silas-beavers/",
+    "image": "https://haxballdatabase.github.io/assets/teams/silas-beavers.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Silas_Beavers"
+  },
+  {
+    "name": "Skins",
+    "slug": "skins",
+    "url": "https://haxballdatabase.github.io/teams/skins/",
+    "image": "https://haxballdatabase.github.io/assets/teams/skins.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Skins"
+  },
+  {
+    "name": "Slappers",
+    "slug": "slappers",
+    "url": "https://haxballdatabase.github.io/teams/slappers/",
+    "image": "https://haxballdatabase.github.io/assets/teams/slappers.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Slappers"
+  },
+  {
+    "name": "Smokin' Aces",
+    "slug": "smokin-aces",
+    "url": "https://haxballdatabase.github.io/teams/smokin-aces/",
+    "image": "https://haxballdatabase.github.io/assets/teams/smokin-aces.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Smokin%27_Aces"
+  },
+  {
+    "name": "Stiff Wind",
+    "slug": "stiff-wind",
+    "url": "https://haxballdatabase.github.io/teams/stiff-wind/",
+    "image": "https://haxballdatabase.github.io/assets/teams/stiff-wind.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Stiff_Wind"
+  },
+  {
+    "name": "The Elders",
+    "slug": "the-elders",
+    "url": "https://haxballdatabase.github.io/teams/the-elders/",
+    "image": "https://haxballdatabase.github.io/assets/teams/the-elders.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/The_Elders"
+  },
+  {
+    "name": "Wicked Guys",
+    "slug": "wicked-guys",
+    "url": "https://haxballdatabase.github.io/teams/wicked-guys/",
+    "image": "https://haxballdatabase.github.io/assets/teams/wicked-guys.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Wicked_Guys"
+  },
+  {
+    "name": "Yes AllStars",
+    "slug": "yes-allstars",
+    "url": "https://haxballdatabase.github.io/teams/yes-allstars/",
+    "image": "https://haxballdatabase.github.io/assets/teams/yes-allstars.png",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Yes_AllStars"
+  },
+  {
+    "name": "Zebras",
+    "slug": "zebras",
+    "url": "https://haxballdatabase.github.io/teams/zebras/",
+    "image": "https://haxballdatabase.github.io/assets/teams/zebras.jpg",
+    "coverage": "full profile",
+    "fandom_url": "https://haxball-database.fandom.com/wiki/Champions_League/Teams/Zebras"
+  }
+]

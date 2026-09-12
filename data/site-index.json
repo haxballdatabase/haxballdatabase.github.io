@@ -1,0 +1,21 @@
+{
+  "name": "HaxBall Database",
+  "primary_url": "https://haxballdatabase.github.io/",
+  "last_updated": "2026-09-12",
+  "sections": {
+    "players": "https://haxballdatabase.github.io/players/",
+    "champions_league": "https://haxballdatabase.github.io/champions-league/",
+    "champions_league_players": "https://haxballdatabase.github.io/champions-league/players/",
+    "teams": "https://haxballdatabase.github.io/champions-league/teams/",
+    "top_25": "https://haxballdatabase.github.io/top-25/"
+  },
+  "counts": {
+    "player_entries": 89,
+    "full_player_profiles": 87,
+    "team_profiles": 22
+  },
+  "data_files": {
+    "players": "https://haxballdatabase.github.io/data/players.json",
+    "teams": "https://haxballdatabase.github.io/data/teams.json"
+  }
+}
