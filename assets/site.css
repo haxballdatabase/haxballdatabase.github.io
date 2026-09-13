@@ -12,3 +12,13 @@
 .content [style*="float: right"] .archive-table td:has(p > strong + br) p{
   line-height:1.4!important;
 }
+/* Team profile infobox: Notable Players should sit flush-left like the Fandom layout. */
+.content [style*="float:right"] .archive-table td:has(p > strong + br),
+.content [style*="float: right"] .archive-table td:has(p > strong + br){
+  text-align:left!important;
+}
+.content [style*="float:right"] .archive-table td:has(p > strong + br) p,
+.content [style*="float: right"] .archive-table td:has(p > strong + br) p{
+  text-align:left!important;
+  margin:0!important;
+}
