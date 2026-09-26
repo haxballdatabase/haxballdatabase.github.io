@@ -72,7 +72,7 @@ The Top 25 project is presented as an elite-player voting project. The supplied 
 - Nesquik: https://haxballdatabase.github.io/players/nesquik/
 - Norbigo: https://haxballdatabase.github.io/players/norbigo/
 - nova: https://haxballdatabase.github.io/players/nova/
-- NukroyS: https://haxballdatabase.github.io/players/nukroys/
+- Иukroyš: https://haxballdatabase.github.io/players/nukroys/
 - Overkill: https://haxballdatabase.github.io/players/overkill/
 - P4ER: https://haxballdatabase.github.io/players/p4er/
 - PiperSalvia: https://haxballdatabase.github.io/players/pipersalvia/
